@@ -4,7 +4,7 @@
 💻 Passionate about **Web Development & Software Engineering**  
 🚀 Worked on **Projects like Fitness Tracker, Railway Management System & more!**  
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
 
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -29,7 +30,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
 
----
 
 ## 📊 GitHub Stats & Achievements
 
@@ -37,13 +37,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inshrah-19&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inshrah-19&layout=compact&theme=radical)
 
----
 
 ## 🌟 GitHub Profile Summary
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Inshrah-19&theme=radical)
 
----
 
 ## 📂 Featured Projects
 
@@ -52,13 +50,11 @@
 - 🎮 **Snake Game (C++)** - Classic snake game with increasing speed & high scores.
 - 🌐 **Portfolio Website** - Showcasing my skills & projects. *(Work in Progress!)*
 
----
 
 ## 💎 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inshrah-m-rafiq-897644249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
 
 🌟 **Feel free to explore my repositories and contribute!** 🌟
 
