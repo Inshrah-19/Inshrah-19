@@ -1,6 +1,6 @@
 # Hi there, I'm Inshrah! 👋
 
-🎓 **2nd Year Computer Science Undergraduate Student** | **Frontend Developer** | **On a Journey to Full-Stack & AI/ML**  
+🎓 **3rd Year Computer Science Undergraduate Student** | **Frontend Developer** | **On a Journey to Full-Stack & AI/ML**  
 💻 Passionate about **Web Development & Software Engineering**  
 🚀 Worked on **Projects like Fitness Tracker, Railway Management System & more!**  
 
